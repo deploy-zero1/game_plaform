@@ -1,0 +1,1626 @@
+[
+  {
+    "id": "1",
+    "title": "Snake.io",
+    "description": "Snake.io is a fast-paced browser-based .io game where you control a snake in a vibrant arena. Consume colorful orbs to grow longer, outmaneuver rivals, and dominate the competition to become the ultimate serpent.",
+    "category": "Skill",
+    "image": "https://imgs.crazygames.com/snake-io/20220928123850/snake-io-cover?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.6,
+    "ratingCount": 1670,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1335,
+    "tags": [
+      "Multiplayer Casual",
+      "Snake",
+      ".io",
+      "Survival"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/snake-io",
+    "seo_content": "<section id=\"intro\">\n    <h1>Welcome to Snake.io</h1>\n    <p>Snake.io is an online <strong>io snake game</strong> where you control a growing serpent, devouring colorful pellets and outsmarting rivals to become the biggest snake on the battlefield.</p>\n  </section>\n\n  <section id=\"our-review\">\n    <h2>📝 Our Review</h2>\n    <blockquote>“Snake.io delivers frenetic snake battles with responsive movement and genuine multiplayer opponents, making it one of the best snake IO games online.”<br>— CrazyGames Editor</blockquote>\n  </section>\n\n  <section id=\"how-to-play\">\n    <h2>🎮 How to Play Snake.io Online</h2>\n    <p><strong>Eat & Grow:</strong> Slither around the arena, greedily consuming pellets to increase your length.</p>\n    <p><strong>Boost to Attack:</strong> Hold left-click or spacebar to dash, burning energy but allowing you to cut off and defeat other snakes. When an opponent dies, all their pellets are yours to feast on!</p>\n    <p><strong>Customize Your Look:</strong> Unlock and equip new skins from the shop by hitting high scores or logging in daily.</p>\n  </section>\n\n  <section id=\"game-features\">\n    <h2>🧠 Game Features</h2>\n    <ul>\n      <li>Real-time multiplayer battles in a vibrant io arena</li>\n      <li>Smooth, responsive controls with WASD, arrow keys, or mouse input</li>\n      <li>Exciting boost mechanic to outmaneuver and trap opponents</li>\n      <li>Diverse skins and unlockable cosmetics in the in-game shop</li>\n      <li>Global leaderboards to see who’s the ultimate snake champion</li>\n      <li>Cross-platform play on web, mobile, and even Apple TV</li>\n    </ul>\n  </section>\n\n  <section id=\"pro-tips\">\n    <h2>🧩 Tips & Tricks</h2>\n    <p><strong>Stay Small to Survive Early:</strong> In the opening moments, focus on pellet collection rather than hunting large snakes.</p>\n    <p><strong>Trap with Boost:</strong> Circle around foes and use a well-timed boost to force them into collision.</p>\n    <p><strong>Follow the Giant:</strong> Tail-gate the biggest snake and swoop in when they weaken.</p>\n    <p><strong>Balance Risk & Reward:</strong> Use boost sparingly—over-boosting can leave you vulnerable.</p>\n  </section>\n\n  <section id=\"release-info\">\n    <h2>📅 Release & Developer</h2>\n    <p><strong>Initial Launch:</strong> April 2016 on Android & iOS.</p>\n    <p><strong>WebGL Release:</strong> July 1, 2021 for browsers.</p>\n    <p><strong>Developer:</strong> Created and published by Kooapps.</p>\n  </section>\n\n  <section id=\"platforms\">\n    <h2>💻 Platforms</h2>\n    <ul>\n      <li>Web Browser (WebGL)</li>\n      <li>Android & iOS Mobile</li>\n      <li>Apple TV & Amazon Fire devices</li>\n    </ul>\n  </section>\n\n  <section id=\"faq\">\n    <h2>❓ FAQ</h2>\n    <h3>What is the world record for Snake.io?</h3>\n    <p>Top unverified scores reach around 200,000 points, but the official leaderboard does not track historic highs.</p>\n    <h3>What controls can I use in Snake.io?</h3>\n    <p>Move with mouse, WASD, or arrow keys; hold left-click or spacebar to boost.</p>\n    <h3>Is Snake.io free to play?</h3>\n    <p>Yes—Snake.io is completely free on web and mobile, with optional in-game purchases for skins.</p>\n  </section>",
+    "comments": [
+      {
+        "author": "Joe Garza",
+        "time": "2 days ago",
+        "text": "“That’s what I call a good time.",
+        "likes": 20,
+        "replies": []
+      },
+      {
+        "author": "Summer Warner",
+        "time": "1 day ago",
+        "text": "“Small sessions, big impact—made my breaks way more enjoyable.",
+        "likes": 13,
+        "replies": []
+      },
+      {
+        "author": "Marianna Kelly",
+        "time": "1 day ago",
+        "text": "“Got my heart racing and my mind working all at once.",
+        "likes": 42,
+        "replies": []
+      },
+      {
+        "author": "Anastasia Singh",
+        "time": "1 hour ago",
+        "text": "“That twist was unexpected and totally blew my mind in the best way.",
+        "likes": 40,
+        "replies": []
+      },
+      {
+        "author": "Jaelynn Vo",
+        "time": "12 hours ago",
+        "text": "“Got my fix right here.",
+        "likes": 37,
+        "replies": []
+      },
+      {
+        "author": "Reginald Blake",
+        "time": "1 day ago",
+        "text": "“Smartly designed.",
+        "likes": 15,
+        "replies": []
+      },
+      {
+        "author": "Rosalyn Bridges",
+        "time": "1 day ago",
+        "text": "“That took skill!",
+        "likes": 20,
+        "replies": []
+      },
+      {
+        "author": "Devin Strickland",
+        "time": "5 days ago",
+        "text": "“Quick sessions, big payoff—it’s ideal when you’ve just got a few minutes.",
+        "likes": 41,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Snake Shooter: Tower Battle",
+    "description": "Snake Shooter: Tower Battle is a thrilling tower-defense arcade game where your expert archery skills are the only thing standing between you and a colossal, creeping dragon. Take careful aim, unleash arrows, and upgrade your bow with devastating enhancements—like fire-tipped bolts and multi-shot volleys—to repel endless waves of attackers.",
+    "category": "Casual",
+    "image": "https://imgs.crazygames.com/snake-shooter-cbu_16x9/20250423063858/snake-shooter-cbu_16x9-cover?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.1,
+    "ratingCount": 1390,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 2283,
+    "tags": [
+      "1 Player",
+      "Snake",
+      ".io",
+      "Survival"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/snake-shooter-cbu",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Langston Pugh",
+        "time": "6 hours ago",
+        "text": "“Next-level enjoyment.",
+        "likes": 20,
+        "replies": []
+      },
+      {
+        "author": "Elle Holmes",
+        "time": "5 days ago",
+        "text": "“Slick and snappy controls—I felt completely in command.",
+        "likes": 42,
+        "replies": []
+      },
+      {
+        "author": "Ellison Boyer",
+        "time": "3 days ago",
+        "text": "“Exactly my speed.",
+        "likes": 15,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Paper.io 2",
+    "description": "Paper.io 2 is a real-time multiplayer .io game where you color the map in your hue to claim territory. Expand your domain and outmaneuver rivals to dominate the Paper.io world—just beware of opponents eager to swipe your land!",
+    "category": "Skill",
+    "image": "https://imgs.crazygames.com/paper-io-2_16x9/20250214024143/paper-io-2_16x9-cover?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.3,
+    "ratingCount": 938,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 974,
+    "tags": [
+      "Multiplayer Casual",
+      "Snake",
+      ".io",
+      "Survival"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/paper-io-2",
+    "seo_content": "<section id=\"intro\">\n    <h1>Welcome to Paper.io 2</h1>\n    <p>Paper.io 2 is a real-time multiplayer <strong>.io game</strong> where you capture territory by painting it in your own color to conquer the map!</p>\n    <p>Stay alert—other players will try to invade your zone and steal back the land you’ve claimed.</p>\n  </section>\n\n  <section id=\"how-to-play\">\n    <h2>🎮 How to Play</h2>\n    <p><strong>Move & Paint:</strong> Use your mouse (or swipe on mobile) to glide over unpainted floor and opponents’ colors, then reconnect to your zone to claim that area.</p>\n    <p><strong>Tail Vulnerability:</strong> When you’re outside your own color, your tail is exposed—if another player crashes into it, you’ll be eliminated and lose your territory.</p>\n    <p><strong>Battle for Dominance:</strong> Constantly outwit other Paper.io 2 players by striking when their tail is exposed and stealing back white space.</p>\n  </section>\n\n  <section id=\"tips-and-tricks\">\n    <h2>🧩 Tips & Tricks</h2>\n    <ul>\n      <li>Don’t be greedy—keep your trail short to minimize exposure.</li>\n      <li>Ambush exposed tails to obliterate opponents and claim their land.</li>\n      <li>Paint cautiously—stay close to your territory before expanding far.</li>\n      <li>Use the arena edges to expand safely and reduce attack angles.</li>\n    </ul>\n  </section>\n\n  <section id=\"game-features\">\n    <h2>🧠 Game Features</h2>\n    <ul>\n      <li>Fast-paced real-time multiplayer territory battles</li>\n      <li>Custom skins to personalize your paint color and avatar</li>\n      <li>Simple, intuitive drag-and-paint controls for all skill levels</li>\n      <li>Endlessly addictive arcade gameplay with strategic depth</li>\n    </ul>\n  </section>\n\n  <section id=\"platforms\">\n    <h2>💻 Platforms</h2>\n    <ul>\n      <li>Web browser (desktop & mobile)</li>\n      <li>Android</li>\n      <li>iOS</li>\n    </ul>\n  </section>\n\n  <section id=\"controls\">\n    <h2>🕹 Controls</h2>\n    <p><strong>Drag</strong> the left mouse button (or swipe) to steer and paint.</p>\n  </section>\n\n  <section id=\"faq\">\n    <h2>❓ FAQ</h2>\n    <h3>How do I capture territory?</h3>\n    <p>Draw a complete loop by reconnecting your trail to your colored zone—any enclosed area becomes your territory.</p>\n    <h3>How can I eliminate other players?</h3>\n    <p>Crash into an opponent’s exposed tail to send them back to start and claim their land.</p>\n    <h3>Is it possible to reach 100% coverage?</h3>\n    <p>Yes—you can fill the entire map from the outside in, but be prepared for fierce resistance as you close in.</p>\n  </section>",
+    "comments": [
+      {
+        "author": "Waylon Jensen",
+        "time": "2 days ago",
+        "text": "“Great for short breaks.",
+        "likes": 41,
+        "replies": []
+      },
+      {
+        "author": "Damian Myers",
+        "time": "6 hours ago",
+        "text": "“Best thing I’ve played all week.",
+        "likes": 44,
+        "replies": []
+      },
+      {
+        "author": "Heidi Heath",
+        "time": "3 days ago",
+        "text": "“Smartly designed.",
+        "likes": 46,
+        "replies": []
+      },
+      {
+        "author": "Luis Ponce",
+        "time": "1 hour ago",
+        "text": "“Perfect for killing time—makes those waiting-room minutes fly by.",
+        "likes": 33,
+        "replies": []
+      },
+      {
+        "author": "Bryce Beard",
+        "time": "6 hours ago",
+        "text": "“Keeps the momentum going.",
+        "likes": 36,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Cubes 2048",
+    "description": "Cubes 2048.io combines the excitement of Snake with the challenge of 2048 in an addictive online match. Grow your value by picking up free cubes and absorbing opponents whose numbers are lower than yours. Whenever two cubes of equal value collide, they merge into a single, higher-valued cube.",
+    "category": "Skill",
+    "image": "https://imgs.crazygames.com/games/cubes-2048-io/cover_16x9-1693298929425.png?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.1,
+    "ratingCount": 1372,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1765,
+    "tags": [
+      "Multiplayer Casual",
+      "Snake",
+      ".io",
+      "Survival"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/cubes-2048-io",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Aaliyah Benitez",
+        "time": "5 days ago",
+        "text": "“Wish I’d found this sooner; would’ve saved me so many boring minutes.",
+        "likes": 12,
+        "replies": []
+      },
+      {
+        "author": "Jessica Woodward",
+        "time": "12 hours ago",
+        "text": "“Kept me on my toes the entire time, never a dull moment.",
+        "likes": 11,
+        "replies": []
+      },
+      {
+        "author": "Kyle Valdez",
+        "time": "1 day ago",
+        "text": "“Just the right amount of zing.",
+        "likes": 24,
+        "replies": []
+      },
+      {
+        "author": "Davis Palacios",
+        "time": "2 days ago",
+        "text": "“That twist was unexpected and totally blew my mind in the best way.",
+        "likes": 46,
+        "replies": []
+      },
+      {
+        "author": "Devin Carson",
+        "time": "3 days ago",
+        "text": "“Love the progression; each new unlock feels like a real treat.",
+        "likes": 34,
+        "replies": []
+      },
+      {
+        "author": "Ryker Morris",
+        "time": "4 days ago",
+        "text": "“Small sessions, big impact—made my breaks way more enjoyable.",
+        "likes": 33,
+        "replies": []
+      },
+      {
+        "author": "Kellen Marsh",
+        "time": "6 hours ago",
+        "text": "“Made my day.",
+        "likes": 24,
+        "replies": []
+      },
+      {
+        "author": "Matilda Owens",
+        "time": "1 hour ago",
+        "text": "“Just can’t let it go.",
+        "likes": 20,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "TileMan.io",
+    "description": "TileMan.io is a dynamic multiplayer .io experience where your goal is to dominate the board by unifying every tile’s color. Beginning with a randomly assigned hue, you expand your influence by converting surrounding blocks to match—and outpace rival players who are fighting for control!",
+    "category": "Skill",
+    "image": "https://imgs.crazygames.com/tileman-io_16x9/20241129083352/tileman-io_16x9-cover?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.4,
+    "ratingCount": 1379,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1004,
+    "tags": [
+      "Multiplayer Casual",
+      "Snake",
+      ".io",
+      "Survival"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/tileman-io",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Apollo Wade",
+        "time": "5 days ago",
+        "text": "“Perfect break from work.",
+        "likes": 16,
+        "replies": []
+      },
+      {
+        "author": "Scarlett Christian",
+        "time": "1 day ago",
+        "text": "“A hidden gem.",
+        "likes": 17,
+        "replies": []
+      },
+      {
+        "author": "Romeo Anthony",
+        "time": "2 days ago",
+        "text": "“Love how it flows.",
+        "likes": 17,
+        "replies": []
+      },
+      {
+        "author": "Zahra Zimmerman",
+        "time": "2 days ago",
+        "text": "“Can’t stop playing! Every round keeps getting better and more intense.",
+        "likes": 21,
+        "replies": []
+      },
+      {
+        "author": "Morgan Wood",
+        "time": "2 days ago",
+        "text": "“Loved it! I can’t stop thinking about it hours after playing.",
+        "likes": 38,
+        "replies": []
+      },
+      {
+        "author": "Robin Ballard",
+        "time": "1 day ago",
+        "text": "“Can’t believe I got this far—felt like I was on a real roll.",
+        "likes": 31,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Little Big Snake",
+    "description": "Little Big Snake is a multiplayer .io adventure that lets you nurture and evolve your serpent. Devour food and insects to grow, all while deftly evading rival snakes. Building on hits like Worms Zone, it adds fresh features for an even richer experience.",
+    "category": "Skill",
+    "image": "https://imgs.crazygames.com/littlebigsnakeio.png?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.2,
+    "ratingCount": 1275,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 2366,
+    "tags": [
+      "Multiplayer Casual",
+      "Snake",
+      ".io",
+      "Survival"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/link-town",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Boone Mueller",
+        "time": "5 days ago",
+        "text": "“Made my day.",
+        "likes": 31,
+        "replies": []
+      },
+      {
+        "author": "Marlowe Watts",
+        "time": "3 days ago",
+        "text": "“Cool mechanics that feel fresh and really make it stand out.",
+        "likes": 36,
+        "replies": []
+      },
+      {
+        "author": "Ariah Drake",
+        "time": "1 day ago",
+        "text": "“Love how it flows.",
+        "likes": 30,
+        "replies": []
+      },
+      {
+        "author": "Dax Valencia",
+        "time": "3 days ago",
+        "text": "“Jaw-droppingly good.",
+        "likes": 49,
+        "replies": []
+      },
+      {
+        "author": "Emma Quinn",
+        "time": "3 days ago",
+        "text": "“Super engaging from the first tap to the last minute of play.",
+        "likes": 37,
+        "replies": []
+      },
+      {
+        "author": "Thomas Walton",
+        "time": "5 days ago",
+        "text": "“So rewarding when you nail that perfect move after practicing.",
+        "likes": 48,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Powerline.io",
+    "description": "Powerline.io casts you as a radiant ribbon of electricity in a multiplayer, Snake-style .io arena. Outmaneuver rival Powerlines, obliterate them, and absorb their energy crystals to grow ever larger!",
+    "category": "Skill",
+    "image": "https://imgs.crazygames.com/powerlineio.png?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.7,
+    "ratingCount": 1462,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1943,
+    "tags": [
+      "Multiplayer Casual",
+      "Snake",
+      ".io",
+      "Survival"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/powerlineio",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Jefferson Compton",
+        "time": "3 days ago",
+        "text": "“That took skill!",
+        "likes": 38,
+        "replies": []
+      },
+      {
+        "author": "Alvaro Zamora",
+        "time": "1 hour ago",
+        "text": "“Challenge accepted! Can’t wait to see just how far I can push this.",
+        "likes": 25,
+        "replies": []
+      },
+      {
+        "author": "Jenesis Everett",
+        "time": "1 hour ago",
+        "text": "“Perfect chill-out session; really helped me relax after a long day.",
+        "likes": 42,
+        "replies": []
+      },
+      {
+        "author": "Shelby Rodriguez",
+        "time": "6 hours ago",
+        "text": "“Totally hooked and already dreaming about my next high score.",
+        "likes": 29,
+        "replies": []
+      },
+      {
+        "author": "Mallory Riley",
+        "time": "12 hours ago",
+        "text": "“This is pure fun.",
+        "likes": 43,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Worm Hunt",
+    "description": "Worm Hunt is a multiplayer .io game set in a vibrant arena, where you compete against other worms. Slither around collecting food and power-ups to grow larger, then spend your coins on skins and upgrades to gear up for your next match!",
+    "category": "Skill",
+    "image": "https://imgs.crazygames.com/worm-hunt_16x9/20230913105128/worm-hunt_16x9-cover?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.4,
+    "ratingCount": 1413,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 899,
+    "tags": [
+      "Multiplayer Casual",
+      "Snake",
+      ".io",
+      "Survival"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/worm-hunt",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Grey Holland",
+        "time": "6 hours ago",
+        "text": "“This is pure fun.",
+        "likes": 29,
+        "replies": []
+      },
+      {
+        "author": "Reese Logan",
+        "time": "1 day ago",
+        "text": "“Exactly my speed.",
+        "likes": 13,
+        "replies": []
+      },
+      {
+        "author": "Jaylah McKinney",
+        "time": "3 days ago",
+        "text": "“Can’t wait for more levels or updates—already craving the next challenge.",
+        "likes": 15,
+        "replies": []
+      },
+      {
+        "author": "Dakota Duarte",
+        "time": "6 hours ago",
+        "text": "“Pure, unfiltered fun.",
+        "likes": 20,
+        "replies": []
+      },
+      {
+        "author": "Jane Wiggins",
+        "time": "12 hours ago",
+        "text": "“Endlessly replayable.",
+        "likes": 16,
+        "replies": []
+      },
+      {
+        "author": "Ansley Munoz",
+        "time": "2 days ago",
+        "text": "“Top-tier casual gaming.",
+        "likes": 24,
+        "replies": []
+      },
+      {
+        "author": "Jaelynn Vo",
+        "time": "1 day ago",
+        "text": "“So rewarding when you nail that perfect move after practicing.",
+        "likes": 34,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Italiano Brainrot: Puzzle & Battle",
+    "description": "Dive into the chaotic, surreal, and unforgettable world of Italian Brainrot. This game is a mix of puzzle-solving and meme culture, featuring a full cast of absurd yet lovable characters. Drag, drop, and assemble picture fragments to unlock all the weird and wonderful creatures in this bizarre journey through the Italian meme multiverse.",
+    "category": "Puzzle",
+    "image": "https://img.gamedistribution.com/76d4962cba62412c99813c9dce11f86e-1280x550.jpg",
+    "rating": 4,
+    "ratingCount": 1028,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 2931,
+    "tags": [
+      "1 Player",
+      "Meme",
+      "Mouse",
+      "Collect"
+    ],
+    "iframeUrl": "https://html5.gamedistribution.com/76d4962cba62412c99813c9dce11f86e",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Bristol Barker",
+        "time": "12 hours ago",
+        "text": "“Great for short breaks.",
+        "likes": 24,
+        "replies": []
+      },
+      {
+        "author": "Mae Barron",
+        "time": "4 days ago",
+        "text": "“Quick sessions, big payoff—it’s ideal when you’ve just got a few minutes.",
+        "likes": 17,
+        "replies": []
+      },
+      {
+        "author": "Justice Hull",
+        "time": "5 days ago",
+        "text": "“Brings back good vibes and nostalgia for the good old gaming days.",
+        "likes": 22,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Italiano Brainrot: Neuro Beasts",
+    "description": "Step into the surreal world of Italian Neuro-Animals where AI-generated creatures run wild. Tap to earn neuro-chips, upgrade your skills, collect bizarre beasts, and climb the leaderboards in this addictive clicker adventure.",
+    "category": "Casual",
+    "image": "https://img.gamedistribution.com/08f0d86ec4c04f3a97923c73cd98b753-1280x720.jpg",
+    "rating": 4.4,
+    "ratingCount": 1701,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 2645,
+    "tags": [
+      "1 Player",
+      "Clicker",
+      "Grow",
+      "Meme"
+    ],
+    "iframeUrl": "https://html5.gamedistribution.com/08f0d86ec4c04f3a97923c73cd98b753",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Omar Costa",
+        "time": "6 hours ago",
+        "text": "“Just my kind of fun—exactly what I needed to unwind today.",
+        "likes": 18,
+        "replies": []
+      },
+      {
+        "author": "Ashton Riley",
+        "time": "1 day ago",
+        "text": "“That’s what I call a good time.",
+        "likes": 25,
+        "replies": []
+      },
+      {
+        "author": "Cleo Kim",
+        "time": "12 hours ago",
+        "text": "“That was tight.",
+        "likes": 40,
+        "replies": []
+      },
+      {
+        "author": "Armani Compton",
+        "time": "5 days ago",
+        "text": "“This is so addicting—I keep promising myself “one more try and before I know it, an hour’s gone.",
+        "likes": 31,
+        "replies": []
+      },
+      {
+        "author": "Xzavier Arnold",
+        "time": "12 hours ago",
+        "text": "“Top-tier casual gaming.",
+        "likes": 14,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Ninja Parkour Multiplayer",
+    "description": "Ninja Parkour Multiplayer is a 2D platformer where you must dodge hazards on your way to the finish line. Swift reflexes and pinpoint jumps are key—any pause, and you’ll find yourself back at square one.",
+    "category": "Action",
+    "image": "https://imgs.crazygames.com/ninja-parkour-multiplayer_16x9/20240603075957/ninja-parkour-multiplayer_16x9-cover",
+    "rating": 4.3,
+    "ratingCount": 844,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1755,
+    "tags": [
+      "Ninja",
+      "Japanese",
+      "Martial Arts",
+      "Platformer"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/ninja-parkour-multiplayer",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Selena Wilcox",
+        "time": "6 hours ago",
+        "text": "“Feel-good gameplay.",
+        "likes": 46,
+        "replies": []
+      },
+      {
+        "author": "Journey Simon",
+        "time": "12 hours ago",
+        "text": "“That was tight.",
+        "likes": 13,
+        "replies": []
+      },
+      {
+        "author": "Margot Rosales",
+        "time": "1 hour ago",
+        "text": "“Keeps the momentum going.",
+        "likes": 39,
+        "replies": []
+      },
+      {
+        "author": "Salem Cook",
+        "time": "1 day ago",
+        "text": "“That was tight.",
+        "likes": 33,
+        "replies": []
+      },
+      {
+        "author": "Leo Parsons",
+        "time": "2 days ago",
+        "text": "“This is gold.",
+        "likes": 49,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Madness Project Nexus",
+    "description": "Your mission to take down Project Nexus and its Training Program kicks off with a daring jailbreak—free your agents from prison in this slick, action-packed shoot-and-hack ’em up. Move with the keyboard and aim with your mouse.",
+    "category": "Action",
+    "image": "https://imgs.crazygames.com/games/madness-project-nexus/cover-1629361319148.png",
+    "rating": 4.7,
+    "ratingCount": 1390,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 2915,
+    "tags": [
+      "Ninja",
+      "Platformer",
+      "Action",
+      "Stealth"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/madness-project-nexus",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Kieran Arroyo",
+        "time": "2 days ago",
+        "text": "“Utterly enjoyable.",
+        "likes": 31,
+        "replies": []
+      },
+      {
+        "author": "Alayah Raymond",
+        "time": "4 days ago",
+        "text": "“Major satisfaction.",
+        "likes": 22,
+        "replies": []
+      },
+      {
+        "author": "Jolie Hensley",
+        "time": "1 hour ago",
+        "text": "“Level after level of fun—each one feels fresh and exciting.",
+        "likes": 40,
+        "replies": []
+      },
+      {
+        "author": "Thiago Ball",
+        "time": "2 days ago",
+        "text": "“Had me smiling.",
+        "likes": 21,
+        "replies": []
+      },
+      {
+        "author": "Jeremias Chase",
+        "time": "12 hours ago",
+        "text": "“Can’t believe I got this far—felt like I was on a real roll.",
+        "likes": 40,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Ninja Hands 2",
+    "description": "Ninja Hands 2 delivers nonstop ninja action, letting you unleash your warrior skills in spectacular fashion. Chain together diverse abilities into devastating combos to vanquish your foes, then strategically craft powerful spells to obliterate enemies and seize victory. Channel your ninja mastery to overcome every challenge that stands in your way!",
+    "category": "Puzzle",
+    "image": "https://imgs.crazygames.com/ninja-hands-2/20230816095353/ninja-hands-2-cover",
+    "rating": 4.1,
+    "ratingCount": 1636,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1096,
+    "tags": [
+      "Ninja",
+      "Action",
+      "Fighting"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/ninja-hands-2",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Leon McLaughlin",
+        "time": "5 days ago",
+        "text": "“So many surprises in here—it never stops throwing new challenges.",
+        "likes": 39,
+        "replies": []
+      },
+      {
+        "author": "Salvador Cannon",
+        "time": "2 days ago",
+        "text": "“Exactly my speed.",
+        "likes": 34,
+        "replies": []
+      },
+      {
+        "author": "Khalani Williamson",
+        "time": "2 days ago",
+        "text": "“Pretty neat stuff.",
+        "likes": 39,
+        "replies": []
+      },
+      {
+        "author": "Elijah Lee",
+        "time": "6 hours ago",
+        "text": "“Easygoing yet deep.",
+        "likes": 45,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Ninja Hands",
+    "description": "In Ninja Hands, step into the role of a stealthy ninja in this laid-back arcade experience. Master precise hand gestures to unleash powerful ninja abilities, discover new combo moves, upgrade your skill set, and personalize your warrior’s look as you progress.",
+    "category": "Puzzle",
+    "image": "https://imgs.crazygames.com/ninja-hands/20220609113103/ninja-hands-cover",
+    "rating": 4.7,
+    "ratingCount": 1968,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1439,
+    "tags": [
+      "Ninja",
+      "Parkour",
+      "Platformer",
+      "Martial Arts"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/ninja-hands",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Junior Sandoval",
+        "time": "2 days ago",
+        "text": "“What a blast!",
+        "likes": 34,
+        "replies": []
+      },
+      {
+        "author": "Wilder Aguirre",
+        "time": "1 hour ago",
+        "text": "“Got my brain working.",
+        "likes": 38,
+        "replies": []
+      },
+      {
+        "author": "Hattie Mason",
+        "time": "1 hour ago",
+        "text": "“Got my heart racing and my mind working all at once.",
+        "likes": 22,
+        "replies": []
+      },
+      {
+        "author": "Lucca Mora",
+        "time": "1 day ago",
+        "text": "“Love how it flows.",
+        "likes": 13,
+        "replies": []
+      },
+      {
+        "author": "Serena Gilbert",
+        "time": "1 hour ago",
+        "text": "“Really keeps you guessing, and I love that element of surprise.",
+        "likes": 16,
+        "replies": []
+      },
+      {
+        "author": "Marie Hubbard",
+        "time": "12 hours ago",
+        "text": "“Best thing I’ve played all week.",
+        "likes": 28,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Auto Ninja",
+    "description": "Auto Ninja throws you into an adrenaline-fueled platforming gauntlet of 41 perilous levels that put both your reflexes and your brain to the test. Sprint and soar over razor-sharp spikes, weave through deadly traps, and crack clever puzzles as you race skyward. Snag every last coin, master each stage, and prove you have the precision and grit to conquer the entire tower.",
+    "category": "Action",
+    "image": "https://imgs.crazygames.com/auto-ninja_16x9/20250416122513/auto-ninja_16x9-cover",
+    "rating": 4.1,
+    "ratingCount": 630,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 2484,
+    "tags": [
+      "Ninja",
+      "Multiplayer",
+      "Parkour"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/auto-ninja",
+    "seo_content": "<h2>How to Play Auto Ninja</h2>\n<p>In <strong>Auto Ninja</strong>, your ninja automatically dashes forward—your job is to time attacks, jumps and slides perfectly to steal coins, avoid traps, and reach each level’s exit. Click or tap to start running, click/press <code>SPACE</code> once to jump and twice to double-jump, then hold to glide. Wall jumps and clinging add depth—just don’t touch spikes or traps!</p>\n\n<h3>Level Mechanics & Obstacles</h3>\n<ul>\n  <li><strong>Hidden Spikes & Arrows</strong> – Some spikes are invisible until the last moment; arrows fire from walls. Stay alert!</li>\n  <li><strong>Interactive Platforms</strong> – Green platforms move when approached; red translucent walls require pulling a lever to pass.</li>\n  <li><strong>Fragile Boxes</strong> – White paper crates crack and break under your feet—use them strategically.</li>\n  <li><strong>Coin Collection</strong> – Grab all three coins per room to unlock exclusive skins and upgrades in <strong>Auto Ninja</strong>.</li>\n</ul>\n\n<h2>About Auto Ninja</h2>\n<p><strong>Auto Ninja</strong> combines high-speed auto-running with satisfying hack-and-slash combat. With dozens of uniquely designed levels, you’ll face varied enemy types, environmental hazards, and epic boss fights. Each <strong>Auto Ninja</strong> stage features Japanese-inspired visuals and fluid animations, making every run a thrill.</p>\n<p>Collect power-ups—shields, speed boosts, special weapons—and unlock new abilities through the <strong>Auto Ninja</strong> progression system. Master attack combos and timing to conquer tougher stages and climb the leaderboard.</p>\n\n<h3>Key Features</h3>\n<ul>\n  <li>Dynamic auto-running action in <strong>Auto Ninja</strong></li>\n  <li>Responsive combat controls and epic boss battles</li>\n  <li>Dozens of challenging <strong>Auto Ninja</strong> levels</li>\n  <li>Variety of power-ups, weapons, and skins</li>\n  <li>Japanese-themed environments and stylish effects</li>\n  <li>Skill-based progression and daily challenges</li>\n</ul>\n\n<h2>Controls</h2>\n<ul>\n  <li><strong>Run Automatically:</strong> Your ninja dashes forward</li>\n  <li><strong>Attack:</strong> Click/tap or press the attack button</li>\n  <li><strong>Jump/Double Jump:</strong> Click/tap or press <code>SPACE</code></li>\n  <li><strong>Glide:</strong> Hold jump while airborne</li>\n  <li><strong>Slide:</strong> Swipe down or press down arrow</li>\n</ul>\n\n<h2>Pro Tips for Auto Ninja</h2>\n<ul>\n  <li>Learn enemy patterns in <strong>Auto Ninja</strong> to strike at the perfect moment.</li>\n  <li>Save special moves for groups of foes or bosses.</li>\n  <li>Use gliding and wall jumps to maintain momentum through tricky sections.</li>\n  <li>Prioritize health power-ups in the toughest <strong>Auto Ninja</strong> rooms.</li>\n  <li>Sometimes it’s smarter to avoid enemies than to fight them all.</li>\n</ul>\n\n<h2>Player Reviews</h2>\n<ul>\n  <li>“Auto Ninja is the perfect test of reflexes and timing!” – ReflexMaster</li>\n  <li>“Slicing through enemies in Auto Ninja feels incredibly rewarding.” – NinjaFan</li>\n  <li>“Perfect for quick breaks—2 levels in 5 minutes!” – CasualGamer</li>\n  <li>“Boss fights are challenging and unique.” – BossBattler</li>\n  <li>“Works flawlessly at school—no blocks!” – SchoolPlayer</li>\n</ul>\n\n<h2>FAQs</h2>\n<dl>\n  <dt>What is Auto Ninja?</dt>\n  <dd>A fast-paced action game where your ninja auto-runs and you control timing for attacks, jumps, and slides.</dd>\n  <dt>How many levels?</dt>\n  <dd>Over 40 unique stages across themed worlds, each with special obstacles and bosses.</dd>\n  <dt>Can I upgrade my character?</dt>\n  <dd>Yes—unlock new abilities, boost health, and enhance attack power through the progression system.</dd>\n  <dt>Is Auto Ninja suitable for schools?</dt>\n  <dd>Yes—designed to run unblocked in school and office browsers.</dd>\n  <dt>Mobile support?</dt>\n  <dd>Optimized for desktop and touch devices with intuitive taps and swipes.</dd>\n</dl>",
+    "comments": [
+      {
+        "author": "Dakari Perry",
+        "time": "6 hours ago",
+        "text": "“Smooth and seamless gameplay—no hiccups, just pure flow.",
+        "likes": 47,
+        "replies": []
+      },
+      {
+        "author": "Valery Weaver",
+        "time": "1 hour ago",
+        "text": "“Slick and snappy controls—I felt completely in command.",
+        "likes": 46,
+        "replies": []
+      },
+      {
+        "author": "Madalynn Frazier",
+        "time": "1 hour ago",
+        "text": "“Pretty neat stuff.",
+        "likes": 12,
+        "replies": []
+      },
+      {
+        "author": "Berkley Fuentes",
+        "time": "4 days ago",
+        "text": "“Small sessions, big impact—made my breaks way more enjoyable.",
+        "likes": 33,
+        "replies": []
+      },
+      {
+        "author": "Bode Daniel",
+        "time": "3 days ago",
+        "text": "“Made my day.",
+        "likes": 49,
+        "replies": []
+      },
+      {
+        "author": "Zayne Hartman",
+        "time": "5 days ago",
+        "text": "“Gave me a real rush.",
+        "likes": 16,
+        "replies": []
+      },
+      {
+        "author": "Amelie Goodwin",
+        "time": "1 hour ago",
+        "text": "“Way more fun than I expected.",
+        "likes": 24,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Ninja Clash Heroes",
+    "description": "Ninja Clash Heroes brings a Japanese ninja aesthetic to a 3D shooter, letting you pick from a diverse roster of heroes and dive straight into the action!",
+    "category": "Platformer",
+    "image": "https://imgs.crazygames.com/ninja-clash-heroes/20200929103548/ninja-clash-heroes-cover",
+    "rating": 4.5,
+    "ratingCount": 1399,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1500,
+    "tags": [
+      "Ninja",
+      "Parkour",
+      "Martial Arts"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/ninja-clash-heroes",
+    "seo_content": "<h2>How to Play Ninja Clash Heroes</h2>\n<ol>\n  <li><strong>Select Your Ninja Champion</strong><br/>Pick from a diverse roster of Ninja Clash Heroes 3D fighters, each boasting unique weapons, health pools, and special buffs. Discover an overpowered hero and unleash your inner shinobi! Rack up eliminations to level up, boost your HP, and dominate every skirmish.</li>\n  <li><strong>Battle Across Feudal Japan</strong><br/>Step into a gorgeous, historically inspired arena as a modern-day, heavily armed ninja warrior. Gear up with your favorite weapon, outgun rival teams, and climb the online daily leaderboard by amassing the highest kill count and collecting precious stars.</li>\n  <li><strong>Grab Power-Ups and Boosters</strong><br/>Hunt down health kits, speed boosts, and other samurai-style power-ups scattered around the map to stay in the fight longer. Use ancient springboards to launch surprise attacks and outmaneuver unsuspecting foes.</li>\n  <li><strong>Unlock Loot Boxes</strong><br/>Spend your earned stars to open crates packed with new armaments, weapon skins, buffs, and fresh ninja outfits. Customize your hero’s look and loadout for maximum style and firepower on the battlefield.</li>\n</ol>\n\n<h3>More Games Like Ninja Clash Heroes</h3>\n<p>Looking for more third-person shooters and FPS fun? Check out popular titles such as <em>Shell Shockers</em>, <em>Krunker</em>, and <em>Deadshot io</em> for nonstop action.</p>\n\n<h3>Game Details</h3>\n<ul>\n  <li><strong>Release Date:</strong> May 2020</li>\n  <li><strong>Developer:</strong> Freeway Interactive (creators of the Clash 3D series, including Subway Clash and Airport Clash 3D)</li>\n  <li><strong>Platform:</strong> Browser (desktop & mobile)</li>\n</ul>\n\n<h3>Controls</h3>\n<ul>\n  <li><strong>Move:</strong> W/A/S/D or Arrow Keys</li>\n  <li><strong>Shoot:</strong> Left Mouse Button</li>\n  <li><strong>Aim Down Sights:</strong> Right Mouse Button</li>\n  <li><strong>Jump:</strong> Space Bar</li>\n  <li><strong>Throw Grenade:</strong> G</li>\n</ul>\n\n<h3>FAQ</h3>\n<dl>\n  <dt>Is Ninja Clash Heroes an online multiplayer game?</dt>\n  <dd>No—matches are against AI opponents, but the gameplay remains fast-paced and highly entertaining.</dd>\n  <dt>How do I unlock new weapons?</dt>\n  <dd>Collect gold stars in matches and redeem them for loot boxes. Inside, you’ll find new guns, skins, and cool character customizations.</dd>\n</dl>",
+    "comments": [
+      {
+        "author": "Valentina Harper",
+        "time": "1 day ago",
+        "text": "“Super smooth loop.",
+        "likes": 40,
+        "replies": []
+      },
+      {
+        "author": "Kamari Peralta",
+        "time": "6 hours ago",
+        "text": "“Made my day.",
+        "likes": 48,
+        "replies": []
+      },
+      {
+        "author": "Mason Stark",
+        "time": "1 hour ago",
+        "text": "“Just the right amount of zing.",
+        "likes": 33,
+        "replies": []
+      },
+      {
+        "author": "Frankie Reid",
+        "time": "6 hours ago",
+        "text": "“That last level was brutal but so rewarding when I finally cleared it.",
+        "likes": 14,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Italian Brainrot Who",
+    "description": "Experience the Most Addictive Brain-Teaser Game—Italian Brainrot Who!In this casual puzzle and online guessing game, you’ll put your wits to the test by identifying the most iconic meme characters from the Italian brainrot era. From the unforgettable “Bombardino Crocodilo” to the hypnotic “tung tung tung Sahur,” every mystery awaits your discovery. Level up your meme knowledge and become the ultimate Italian Brainrot Who champion!",
+    "category": "Puzzle",
+    "image": "https://img.y8.com/cloud/v2-y8-video-previews-002/videos/206511/74492ff526799c077b07dda16beafbefe578a58c.webm?1745563083",
+    "rating": 4.2,
+    "ratingCount": 1091,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 2254,
+    "tags": [
+      "1 Player",
+      "Italian Brainrot",
+      "Puzzle",
+      "Brain"
+    ],
+    "iframeUrl": "https://storage.y8.com/y8-studio/unity_webgl/perion1111/italian_brainrot_who_v1n/?key=y8&value=default",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Dominick Wilson",
+        "time": "1 day ago",
+        "text": "“Kept me on my toes the entire time, never a dull moment.",
+        "likes": 13,
+        "replies": []
+      },
+      {
+        "author": "Damian Myers",
+        "time": "2 days ago",
+        "text": "“That’s what I call a good time.",
+        "likes": 20,
+        "replies": []
+      },
+      {
+        "author": "Jose Palacios",
+        "time": "1 day ago",
+        "text": "“Feel-good gameplay.",
+        "likes": 15,
+        "replies": []
+      },
+      {
+        "author": "Elianna Mejia",
+        "time": "1 day ago",
+        "text": "“Totally nailed it.",
+        "likes": 24,
+        "replies": []
+      },
+      {
+        "author": "Kora Rhodes",
+        "time": "2 days ago",
+        "text": "“Brings back good vibes and nostalgia for the good old gaming days.",
+        "likes": 48,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Italian Brainrot: Picture Builder",
+    "description": "Get ready for a fun and addictive Italian brainrot-style puzzle game! In this creative experience, you'll drag and drop pieces to assemble charming Italian animal characters, inspired by the viral Italian brainrot animals list trend. Each level introduces a brand-new character to unlock and collect.This game is perfect for fans of quirky, viral aesthetics and lighthearted brain challenges. Whether you're into tier lists, memes, or just love animals, this is the ideal brainrot brain game for you!",
+    "category": "Puzzle",
+    "image": "https://static.playhop.com/images/d1133_6238841_5da42/06a514dab/2a00000196587611_744f12b/5d31a503e05f65f027b4_ba813f/pjpg128x128",
+    "rating": 4.6,
+    "ratingCount": 566,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1097,
+    "tags": [
+      "1 Player",
+      "Italian Brainrot",
+      "Puzzle",
+      "Brain"
+    ],
+    "iframeUrl": "https://app-427329.games.s3.yandex.net/427329/jqqbbwbatxc0of52txdpdnl50ee2dagv/index.html?sdk=%2Fsdk%2F_%2Fv2.bf89734f5297232e0212.js#origin=https%3A%2F%2Fplayhop.com&app-id=427329&device-type=desktop",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Katelyn Shepard",
+        "time": "2 days ago",
+        "text": "“Reminds me of classic titles I used to play for hours as a kid.",
+        "likes": 47,
+        "replies": []
+      },
+      {
+        "author": "Persephone Shannon",
+        "time": "5 days ago",
+        "text": "“Really keeps you guessing, and I love that element of surprise.",
+        "likes": 32,
+        "replies": []
+      },
+      {
+        "author": "Sergio Palmer",
+        "time": "12 hours ago",
+        "text": "“Addicted in all the right ways.",
+        "likes": 32,
+        "replies": []
+      },
+      {
+        "author": "Alaric Schmidt",
+        "time": "3 days ago",
+        "text": "“Genuinely delightful.",
+        "likes": 25,
+        "replies": []
+      },
+      {
+        "author": "Bristol Kennedy",
+        "time": "2 days ago",
+        "text": "“Made my day.",
+        "likes": 19,
+        "replies": []
+      },
+      {
+        "author": "Jaylen Yang",
+        "time": "6 hours ago",
+        "text": "“Filled all my free minutes.",
+        "likes": 41,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Sprunki Italian Brainrot",
+    "description": "Mine Blocks is a 2D Minecraft fan action game originally released in Flash. You can now play the game again, as it’s been rebuilt in HTML5 and features regular updates from the development team. Explore, craft, and create a world of your imaginings in this open-world playground!",
+    "category": "Casual",
+    "image": "https://gosprunki.com/assets/img/sprunki-italian-brainrot.jpg.webp",
+    "rating": 4.7,
+    "ratingCount": 789,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 2807,
+    "tags": [
+      "1 Player",
+      "Italian Brainrot",
+      "Music",
+      "Free"
+    ],
+    "iframeUrl": "https://s.sprunkiscrunkly.com/games/sprunki-italian-brainrot/sprunki-italian-brainrot.html",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Paxton Pacheco",
+        "time": "3 days ago",
+        "text": "“So rewarding when you nail that perfect move after practicing.",
+        "likes": 44,
+        "replies": []
+      },
+      {
+        "author": "Jaxton Reid",
+        "time": "4 days ago",
+        "text": "“Next-level enjoyment.",
+        "likes": 42,
+        "replies": []
+      },
+      {
+        "author": "Rudy Cortes",
+        "time": "3 days ago",
+        "text": "“Perfect break from work.",
+        "likes": 35,
+        "replies": []
+      },
+      {
+        "author": "Nellie Lang",
+        "time": "1 day ago",
+        "text": "“Reminds me of classic titles I used to play for hours as a kid.",
+        "likes": 48,
+        "replies": []
+      },
+      {
+        "author": "Nancy Murphy",
+        "time": "6 hours ago",
+        "text": "“Endlessly replayable.",
+        "likes": 13,
+        "replies": []
+      },
+      {
+        "author": "Blake McClure",
+        "time": "1 day ago",
+        "text": "“Love the progression; each new unlock feels like a real treat.",
+        "likes": 16,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Auto Ninja",
+    "description": "Auto Ninja is a fast-paced ninja platformer game where precision, timing, and strategy are your keys to survival. Battle through 41 challenging, trap-filled levels packed with spikes, moving hazards, and clever puzzles. Test your reflexes as you jump, dodge, and think your way past every deadly obstacle. Climb the tower floor by floor, collect every coin, and prove you're a true platforming master in this intense arcade-style puzzle platformer. Perfect for fans of skill-based action games who crave a real challenge.",
+    "category": "Action",
+    "image": "https://imgs.crazygames.com/auto-ninja_16x9/20250416122513/auto-ninja_16x9-cover?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.6,
+    "ratingCount": 645,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1837,
+    "tags": [
+      "1 Player",
+      "Running",
+      "Platform",
+      "Free"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/auto-ninja",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Westin Holmes",
+        "time": "6 hours ago",
+        "text": "“Super engaging from the first tap to the last minute of play.",
+        "likes": 48,
+        "replies": []
+      },
+      {
+        "author": "Denise Faulkner",
+        "time": "3 days ago",
+        "text": "“A hidden gem.",
+        "likes": 47,
+        "replies": []
+      },
+      {
+        "author": "Lyra Farmer",
+        "time": "4 days ago",
+        "text": "“Clever challenges.",
+        "likes": 32,
+        "replies": []
+      },
+      {
+        "author": "Kenzo Johnson",
+        "time": "1 hour ago",
+        "text": "“Seriously good.",
+        "likes": 35,
+        "replies": []
+      },
+      {
+        "author": "Michelle Watkins",
+        "time": "4 days ago",
+        "text": "“Quick sessions, big payoff—it’s ideal when you’ve just got a few minutes.",
+        "likes": 33,
+        "replies": []
+      },
+      {
+        "author": "Ariah Davis",
+        "time": "12 hours ago",
+        "text": "“Endlessly replayable.",
+        "likes": 22,
+        "replies": []
+      },
+      {
+        "author": "Gracelynn Love",
+        "time": "1 day ago",
+        "text": "“Wish I’d found this sooner; would’ve saved me so many boring minutes.",
+        "likes": 42,
+        "replies": []
+      },
+      {
+        "author": "Kingsley Barton",
+        "time": "5 days ago",
+        "text": "“Just can’t let it go.",
+        "likes": 17,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Link Town",
+    "description": "Link Town is a relaxing yet challenging city-building puzzle game that combines logical thinking with urban planning strategy. Draw roads to connect matching landmarks or city services, but watch out—paths can't cross, so every move counts! Solve each puzzle by completing the entire grid and watch your miniature city come to life with colorful animations.",
+    "category": "Puzzle",
+    "image": "https://imgs.crazygames.com/link-town_16x9/20250422092549/link-town_16x9-cover?metadata=none&quality=85&width=273&fit=crop",
+    "rating": 4.4,
+    "ratingCount": 680,
+    "developer": "",
+    "releaseDate": "2025-05-12",
+    "playerCount": 1807,
+    "tags": [
+      "1 Player",
+      "Puzzle",
+      "2D",
+      "Brain"
+    ],
+    "iframeUrl": "https://www.crazygames.com/embed/link-town",
+    "seo_content": "",
+    "comments": [
+      {
+        "author": "Clark Ryan",
+        "time": "3 days ago",
+        "text": "“Wish I’d found this sooner; would’ve saved me so many boring minutes.",
+        "likes": 37,
+        "replies": []
+      },
+      {
+        "author": "William McLean",
+        "time": "12 hours ago",
+        "text": "“Impressively polished.",
+        "likes": 17,
+        "replies": []
+      },
+      {
+        "author": "Alaya Dawson",
+        "time": "1 hour ago",
+        "text": "“Got my brain working.",
+        "likes": 39,
+        "replies": []
+      },
+      {
+        "author": "Otto Stein",
+        "time": "3 days ago",
+        "text": "“Seriously good.",
+        "likes": 23,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Speed Stars",
+    "description": "Speed Stars is a thrilling 2D sprint simulator that lets you compete in short-burst races against your reflexes and rhythm. As one of the most popular unbanned games online, it brings a console-level athletic experience to browsers with no downloads or restrictions. Whether you're sneaking in a quick break during class or cooling off during work, Speed Stars unblocked is your ticket to fast-paced fun that’s both simple and addictive.",
+    "category": "Casual",
+    "image": "https://static.catgame.top/vercel/1747824893478_speed-stars-m190x110.png",
+    "rating": 4.6,
+    "ratingCount": 692,
+    "developer": "Unknown",
+    "releaseDate": "2025-05-21",
+    "playerCount": 798,
+    "tags": [
+      "Racing",
+      "Speed",
+      "Running",
+      "Unblocked",
+      "Unbanned",
+      "Free"
+    ],
+    "iframeUrl": "https://speed-stars.co/game/speed-stars/",
+    "seo_content": "<h2>Speed Stars – A High-Speed Sprint in the World of Unbanned Games</h2>\n<p><strong>Speed Stars</strong> is a thrilling 2D sprint simulator that lets you compete in short-burst races against your reflexes and rhythm. As one of the most popular <em>unbanned games</em> online, it brings a console-level athletic experience to browsers with no downloads or restrictions. Whether you're sneaking in a quick break during class or cooling off during work, <strong>Speed Stars unblocked</strong> is your ticket to fast-paced fun that’s both simple and addictive.</p>\n\n<h2>Why Is Speed Stars Worth Playing at School or Work?</h2>\n<p>Speed Stars thrives in the world of <em>unblocked games</em> because it offers the perfect blend of minimalism and challenge. It’s lightweight, browser-friendly, and demands zero learning curve. Its rhythmic control mechanics make it ideal for short sessions, so you can race, win, and get back to your day. Among all <em>unbanned games</em>, <strong>Speed Stars unblocked</strong> delivers just the right hit of adrenaline without overstaying its welcome.</p>\n\n<h2>How to Play Speed Stars – Game Controls and Mechanics</h2>\n<p>In <strong>Speed Stars</strong>, players race in short 100m, 200m, and relay sprints using rhythmic key taps. The challenge lies in <em>alternating</em> the left and right arrow keys (or A/D keys) to simulate leg movement. Proper rhythm and timing are essential to gain maximum speed—random mashing won’t cut it. The better your rhythm, the higher your velocity and the cleaner your sprint animation.</p>\n<p>The game also features online leaderboards, ghost racers for competitive improvement, and varying track conditions. These features elevate it beyond most <em>unbanned games</em> by encouraging mastery over time rather than just casual play.</p>\n<p><strong>Pro Tip</strong>: Start slow to lock into rhythm—speed builds naturally when your pacing is consistent.</p>\n\n<h3>More Unbanned Games to Explore</h3>\n<ul>\n  <li><a href=\"https://unbanned.games/games/crazy-cattle-3d\">Crazy Cattle 3D</a> – Wild rodeo-style chaos</li>\n  <li><a href=\"https://unbanned.games/games/sprunki-italian-brainrot\">Sprunki: Italian Brainrot</a> – Surreal platforming madness</li>\n  <li><a href=\"https://unbanned.games/games/italiano-brainrot-neuro-beasts\">Italiano Brainrot: Neuro Beasts</a> – Bizarre creatures and neuro-challenges</li>\n</ul>\n\n<h3>Frequently Asked Questions (FAQ)</h3>\n<ul>\n  <li><strong>Q: Is Speed Stars safe to play on school Wi-Fi?</strong><br>A: Yes. As a browser-based title, it’s often categorized under <em>unblocked games</em> and requires no downloads or installs.</li>\n  <li><strong>Q: Can I play Speed Stars on mobile?</strong><br>A: Currently, the game is optimized for keyboard inputs, so desktop or laptop play is recommended.</li>\n  <li><strong>Q: Is there a multiplayer mode?</strong><br>A: While there’s no live multiplayer, ghost racing and leaderboards offer a competitive asynchronous experience.</li>\n</ul>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is Speed Stars safe to play on school Wi-Fi?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes. As a browser-based title, it’s often categorized under unblocked games and requires no downloads or installs.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I play Speed Stars on mobile?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Currently, the game is optimized for keyboard inputs, so desktop or laptop play is recommended.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is there a multiplayer mode?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"While there’s no live multiplayer, ghost racing and leaderboards offer a competitive asynchronous experience.\"\n      }\n    }\n  ]\n}\n</script>\n\n<h3>Video Guides – Learn from the Best</h3>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1l1ZUm3I4FI\" title=\"Speed Stars - World Record Sprint 100m\" frameborder=\"0\" allowfullscreen></iframe>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"VideoObject\",\n  \"name\": \"Speed Stars - World Record Sprint 100m\",\n  \"description\": \"In this gameplay video, watch expert-level timing and rhythm as players hit sub-10-second sprints. Ideal for learning pacing and rhythm strategy to boost your own runs.\",\n  \"thumbnailUrl\": \"https://i.ytimg.com/vi/1l1ZUm3I4FI/hqdefault.jpg\",\n  \"uploadDate\": \"2022-06-14T00:00:00+00:00\",\n  \"embedUrl\": \"https://www.youtube.com/embed/1l1ZUm3I4FI\"\n}\n</script>\n\n<h3>What Players Are Saying (User Reviews)</h3>\n<ul>\n  <li>“It’s wild how a two-button game can be this addictive. I keep trying to beat my ghost runner!” – <em>Reddit user @fastfeet23</em></li>\n  <li>“Best part? I can play it during class without any lag or installs. 10/10 for sneaky fun.” – <em>YouTube comment</em></li>\n  <li>“Rhythm-based sprinting is genius. It’s not just spamming keys—there’s actual timing skill.” – <em>Reddit @athleticnerd</em></li>\n  <li>“Feels like Track & Field for the browser generation. Way better than most <em>unblocked games</em> I’ve tried.” – <em>Twitter user</em></li>\n</ul>",
+    "comments": [
+      {
+        "author": "Miles Whitaker",
+        "avatar": "https://static.catgame.top/vercel/1747824897672_1747737855429_3.jpg",
+        "time": "1 day ago",
+        "text": "Instant mood booster.",
+        "likes": 11,
+        "replies": []
+      },
+      {
+        "author": "Logan Brewer",
+        "avatar": "https://static.catgame.top/vercel/1747824900552_1747737857193_60.jpg",
+        "time": "1 day ago",
+        "text": "Speed stars, I just couldn’t stop playing!",
+        "likes": 14,
+        "replies": []
+      },
+      {
+        "author": "Julian Ortega",
+        "avatar": "https://static.catgame.top/vercel/1747824902875_1747737858777_16.jpg",
+        "time": "1 day ago",
+        "text": "Totally addictive.",
+        "likes": 2,
+        "replies": []
+      },
+      {
+        "author": "Bryce McDaniel",
+        "avatar": "https://static.catgame.top/vercel/1747824905302_1747737860556_39.jpg",
+        "time": "1 day ago",
+        "text": "Such a satisfying experience.",
+        "likes": 9,
+        "replies": []
+      },
+      {
+        "author": "Nathaniel Tate",
+        "avatar": "https://static.catgame.top/vercel/1747824908196_1747737862383_77.jpg",
+        "time": "1 day ago",
+        "text": "Wholesome fun from start to finish.",
+        "likes": 6,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Crazy Cattle 3d",
+    "description": "Step into the hooves of a raging bull in Crazy Cattle 3D, one of the most entertaining unbanned games you can play directly from school or work. With its outrageous physics, cartoon-style mayhem, and quick-play format, this game turns destruction into fun. Whether you’re charging through obstacles or sending pedestrians flying, Crazy Cattle 3D unblocked delivers bite-sized chaos you won’t want to miss.",
+    "category": "Casual",
+    "image": "https://static.catgame.top/vercel/1747824910814_crazy-cattle-3d-game-m150x150.jpg",
+    "rating": 4.6,
+    "ratingCount": 1292,
+    "developer": "Unknown",
+    "releaseDate": "2025-05-21",
+    "playerCount": 1298,
+    "tags": [
+      "Racing",
+      "Speed",
+      "Survival",
+      "Unblocked",
+      "Unbanned",
+      "Free"
+    ],
+    "iframeUrl": "https://crazycattle3d.io/crazy-cattle-3d.embed",
+    "seo_content": "<h2>Crazy Cattle 3D – Unleash Chaos with Hooves in This Hilarious Unblocked Game</h2>\n<p>Step into the hooves of a raging bull in <strong>Crazy Cattle 3D</strong>, one of the most entertaining <strong>unbanned games</strong> you can play directly from school or work. With its outrageous physics, cartoon-style mayhem, and quick-play format, this game turns destruction into fun. Whether you’re charging through obstacles or sending pedestrians flying, <strong>Crazy Cattle 3D unblocked</strong> delivers bite-sized chaos you won’t want to miss.</p>\n\n<h2>Why Play Crazy Cattle 3D Unblocked at School or Work?</h2>\n<p>Looking for a quick stress reliever between classes or during a lunch break? <strong>Crazy Cattle 3D unblocked</strong> is an ideal choice. Its simple mechanics and short rounds make it perfect for sneaking in a few laughs without drawing attention. Plus, since it’s one of the most popular <strong>unblocked games</strong>, there’s no need to install anything—just open your browser and start wreaking havoc as a wild bull on a rampage.</p>\n\n<h2>How to Play: Controls & Gameplay Guide</h2>\n<p>In <strong>Crazy Cattle 3D</strong>, you control a wild bull dashing through city streets, parks, and farms. The goal? Cause as much destruction as possible while dodging obstacles and police traps. Here’s how it works:</p>\n<ul>\n  <li><strong>Movement</strong>: Use arrow keys or WASD to steer your bull</li>\n  <li><strong>Objective</strong>: Crash into objects, people, and vehicles to increase your score</li>\n  <li><strong>Avoid</strong>: Try not to get cornered or caught—momentum is key!</li>\n</ul>\n<p>The fast-paced gameplay, combined with hilarious ragdoll animations, makes this one of the most chaotic yet enjoyable <strong>unblocked games</strong> online. It’s a perfect mix of simplicity and excitement, giving players a dose of action without overcomplicating things.</p>\n\n<h3>More Unbanned Games You’ll Love</h3>\n<ul>\n  <li><a href=\"https://unbanned.games/games/speed-stars\">Speed Stars – Unbanned Games</a></li>\n  <li><a href=\"https://unbanned.games/games/blumgi-merge\">Blumgi Merge – Unbanned Games</a></li>\n  <li><a href=\"https://unbanned.games/games/sprunki-italian-brainrot\">Sprunki: Italian Brainrot – Unbanned Games</a></li>\n  <li><a href=\"https://unbanned.games/games/italiano-brainrot-neuro-beasts\">Italiano Brainrot: Neuro Beasts – Unbanned Games</a></li>\n</ul>\n\n<h3>FAQs About Crazy Cattle 3D</h3>\n<ul>\n  <li><strong>Q:</strong> Is Crazy Cattle 3D free to play?<br><strong>A:</strong> Yes, the game is completely free and browser-based. No downloads needed.</li>\n  <li><strong>Q:</strong> Can I play Crazy Cattle 3D on a school Chromebook?<br><strong>A:</strong> Absolutely. Since it’s part of the <strong>unbanned games</strong> collection, it works on most school networks.</li>\n  <li><strong>Q:</strong> What makes this game different from other runner games?<br><strong>A:</strong> The absurd humor, destructible environments, and reactive NPCs make each run unpredictable and fun.</li>\n</ul>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is Crazy Cattle 3D free to play?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, the game is completely free and browser-based. No downloads needed.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I play Crazy Cattle 3D on a school Chromebook?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Absolutely. Since it’s part of the unbanned games collection, it works on most school networks.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What makes this game different from other runner games?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"The absurd humor, destructible environments, and reactive NPCs make each run unpredictable and fun.\"\n      }\n    }\n  ]\n}\n</script>\n\n<h3>Video Guide: See the Madness in Action</h3>\n<p><strong>Video Title:</strong> Crazy Cattle 3D – Rampage Begins! Full Gameplay Walkthrough</p>\n<p>Watch this full-length video walkthrough to see real-time gameplay, tips on high scoring, and how to keep your bull unstoppable through every level.</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HE_4bkMEN4w\" title=\"Crazy Cattle 3D – Rampage Begins! Full Gameplay Walkthrough\" frameborder=\"0\" allowfullscreen></iframe>\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"VideoObject\",\n  \"name\": \"Crazy Cattle 3D – Rampage Begins! Full Gameplay Walkthrough\",\n  \"description\": \"Watch full gameplay of Crazy Cattle 3D and learn how to score high and dodge the law!\",\n  \"thumbnailUrl\": \"https://i.ytimg.com/vi/HE_4bkMEN4w/maxresdefault.jpg\",\n  \"uploadDate\": \"2024-11-12T00:00:00+00:00\",\n  \"embedUrl\": \"https://www.youtube.com/embed/HE_4bkMEN4w\"\n}\n</script>\n\n<h3>User Reviews</h3>\n<ul>\n  <li>\"I thought this game would be dumb, but I couldn’t stop playing. It’s so satisfying to crash through everything.\" – Reddit User</li>\n  <li>\"Perfect time-killer between my online classes. It runs smooth even on my school laptop.\" – YouTube Comment</li>\n  <li>\"The physics are hilarious. 10/10 for stress relief.\" – Reddit Thread</li>\n  <li>\"Can’t believe this isn’t blocked at school. Thank you internet gods.\" – Reddit User</li>\n  <li>\"A total gem among unblocked games. Way funnier than I expected.\" – YouTube Viewer</li>\n</ul>",
+    "comments": [
+      {
+        "author": "Miles Whitaker",
+        "avatar": "https://static.catgame.top/vercel/1747824913036_1747737855429_3.jpg",
+        "time": "1 day ago",
+        "text": "That took skill!",
+        "likes": 12,
+        "replies": []
+      },
+      {
+        "author": "Logan Brewer",
+        "avatar": "https://static.catgame.top/vercel/1747824915101_1747737857193_60.jpg",
+        "time": "1 day ago",
+        "text": "Came for fun, stayed for the thrill.",
+        "likes": 14,
+        "replies": []
+      },
+      {
+        "author": "Julian Ortega",
+        "avatar": "https://static.catgame.top/vercel/1747824917438_1747737858777_16.jpg",
+        "time": "1 day ago",
+        "text": "crazy cattle 3d, feel-good gameplay",
+        "likes": 2,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Blumgi Merge",
+    "description": "Blumgi Merge is an engaging merge adventure game where players combine slimes to create stronger allies, battling through waves of monsters in a dungeon setting. With its vibrant graphics and strategic gameplay, it's a standout title in the merge games genre.",
+    "category": "Casual",
+    "image": "https://static.catgame.top/vercel/1747802340896_game_31683_68091abaa1a88.jpg",
+    "rating": 4.3,
+    "ratingCount": 842,
+    "developer": "Blumgi",
+    "releaseDate": "2025-05-22",
+    "playerCount": 1789,
+    "tags": [
+      "Merge",
+      "Unbanned",
+      "Adventure",
+      "Dungeon",
+      "Unblocked",
+      "Free"
+    ],
+    "iframeUrl": "https://frivez.com/games/blumgi-merge/index.html",
+    "seo_content": "<h2>Blumgi Merge – Play Now on Unbanned Games</h2>\n<p><strong>Blumgi Merge</strong> is a fast-paced puzzle experience that blends the thrill of merging numbers with quirky characters and colorful animations. As one of the most popular <strong>unbanned games</strong> in schools and workplaces, this game offers quick, satisfying sessions without the need for downloads or installations. Whether you're looking to unwind during breaks or sharpen your reflexes, <strong>Blumgi Merge</strong> is a perfect choice among top <strong>unblocked games</strong> available online.</p>\n\n<h2>Why We Recommend Playing Blumgi Merge at School or Work</h2>\n<p>If you're seeking a game that’s both engaging and distraction-free, <strong>Blumgi Merge</strong> hits the mark. It loads instantly in browsers and can be paused anytime—ideal for quick play sessions between tasks. The simple mechanics make it accessible, while the strategic depth keeps players coming back. Best of all, as part of the <strong>unbanned games</strong> library, it's often playable on school or corporate networks without restrictions.</p>\n\n<h2>How to Play Blumgi Merge – A Quick Gameplay Guide</h2>\n<p><strong>Blumgi Merge</strong> is deceptively simple. You drop blocks with numbers onto a grid. When two blocks with the same number touch, they merge into one with a higher value. The more you merge, the more space you free up—and the higher your score climbs.</p>\n<ul>\n  <li>Use the <strong>arrow keys</strong> or <strong>tap/click</strong> to move blocks.</li>\n  <li><strong>Combine quickly</strong> to avoid running out of space.</li>\n  <li><strong>Watch out for block placement</strong>—one wrong move could end your streak.</li>\n</ul>\n<p>This game challenges your spatial awareness and forward planning, making it more than just a time killer. It’s a great addition to the world of <strong>unblocked games</strong> that reward both speed and strategy.</p>\n\n<h3>More Unblocked Games You Might Enjoy</h3>\n<ul>\n  <li><a href=\"https://unbanned.games/games/crazy-cattle-3d\">Crazy Cattle 3D</a></li>\n  <li><a href=\"https://unbanned.games/games/speed-stars\">Speed Stars</a></li>\n  <li><a href=\"https://unbanned.games/games/sprunki-italian-brainrot\">Sprunki: Italian Brainrot</a></li>\n  <li><a href=\"https://unbanned.games/games/italiano-brainrot-neuro-beasts\">Italiano Brainrot: Neuro Beasts</a></li>\n</ul>\n\n<h3>Frequently Asked Questions (FAQ)</h3>\n<ul>\n  <li><strong>Q: Is Blumgi Merge free to play?</strong><br>A: Yes, it’s completely free and playable directly in your browser.</li>\n  <li><strong>Q: Can I play Blumgi Merge on a school Chromebook?</strong><br>A: Absolutely! It’s part of the <strong>unbanned games</strong> collection and works on most school networks.</li>\n  <li><strong>Q: Is progress saved between sessions?</strong><br>A: No, the game resets unless your browser offers session storage.</li>\n</ul>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is Blumgi Merge free to play?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, it’s completely free and playable directly in your browser.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I play Blumgi Merge on a school Chromebook?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Absolutely! It’s part of the unbanned games collection and works on most school networks.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is progress saved between sessions?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"No, the game resets unless your browser offers session storage.\"\n      }\n    }\n  ]\n}\n</script>\n\n<h3>Video Guides – Watch Before You Merge</h3>\n<p><strong>Title:</strong> How to Play Blumgi Merge – Full Walkthrough and High Score Tips<br>\n<strong>Description:</strong> This video demonstrates high-level play in <strong>Blumgi Merge</strong>, including pro strategies to extend your game and maximize merges. A great watch if you're aiming for leaderboard scores.</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oJsNW_IORjg\" frameborder=\"0\" allowfullscreen></iframe>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"VideoObject\",\n  \"name\": \"How to Play Blumgi Merge – Full Walkthrough and High Score Tips\",\n  \"description\": \"This video demonstrates high-level play in Blumgi Merge, including pro strategies to extend your game and maximize merges.\",\n  \"thumbnailUrl\": \"https://i.ytimg.com/vi/oJsNW_IORjg/hqdefault.jpg\",\n  \"uploadDate\": \"2023-01-21T00:00:00+00:00\",\n  \"embedUrl\": \"https://www.youtube.com/embed/oJsNW_IORjg\",\n  \"contentUrl\": \"https://www.youtube.com/watch?v=oJsNW_IORjg\"\n}\n</script>",
+    "comments": [
+      {
+        "author": "Sophie Tran",
+        "avatar": "https://static.catgame.top/vercel/1747824912533_1747737864265_25.jpg",
+        "time": "2 days ago",
+        "text": "Super addictive merge mechanics!",
+        "likes": 12,
+        "replies": []
+      },
+      {
+        "author": "Ethan Rhodes",
+        "avatar": "https://static.catgame.top/vercel/1747824915893_1747737865839_11.jpg",
+        "time": "2 days ago",
+        "text": "Love the pixel visuals and how relaxing the game is.",
+        "likes": 9,
+        "replies": []
+      },
+      {
+        "author": "Claire Jennings",
+        "avatar": "https://static.catgame.top/vercel/1747824919312_1747737867519_41.jpg",
+        "time": "2 days ago",
+        "text": "My go-to during study breaks.",
+        "likes": 7,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Geometry Dash Lite",
+    "description": "Looking for unbanned games that offer thrilling gameplay without needing downloads or logins? Geometry Dash Lite, a fast-paced rhythm-based platformer, is your perfect pick. With its vibrant visuals, energetic soundtrack, and intuitive mechanics, this unblocked game lets you dive straight into the action. Whether you're on a quick break at school or need a mental refresh at work, Geometry Dash Lite delivers just the right blend of challenge and fun.",
+    "category": "Arcade",
+    "image": "https://static.catgame.top/vercel/1747895482091_geometry-dash.jpg",
+    "rating": 4.8,
+    "ratingCount": 1534,
+    "developer": "RobTop Games",
+    "releaseDate": "2025-05-22",
+    "playerCount": 3241,
+    "tags": [
+      "Platformer",
+      "Rhythm",
+      "Reflex",
+      "Arcade",
+      "Unbanned",
+      "Unblocked",
+      "Free"
+    ],
+    "iframeUrl": "https://geometrydash-lite.io/",
+    "seo_content": "<h2>Geometry Dash Lite – A Top Pick for Unbanned Games at School or Work</h2>\n<p>Looking for <strong>unbanned games</strong> that offer thrilling gameplay without needing downloads or logins? <strong>Geometry Dash Lite</strong>, a fast-paced rhythm-based platformer, is your perfect pick. With its vibrant visuals, energetic soundtrack, and intuitive mechanics, this <strong>unblocked game</strong> lets you dive straight into the action. Whether you're on a quick break at school or need a mental refresh at work, Geometry Dash Lite delivers just the right blend of challenge and fun.</p>\n\n<h2>Why Play Geometry Dash Lite at School or Work?</h2>\n<p>Geometry Dash Lite stands out among <strong>unbanned games</strong> because of its quick accessibility and addictive gameplay loop. Since it’s available as an <strong>unblocked game</strong>, it bypasses network restrictions, letting players engage in short, satisfying sessions without installation. Its one-touch control system is easy to learn but hard to master—making it ideal for filling idle moments with meaningful, skill-based fun.</p>\n\n<h2>How to Play: Controls & Gameplay Overview</h2>\n<p>In <strong>Geometry Dash Lite</strong>, your mission is simple—guide a square-shaped avatar through an obstacle-filled world, all synced to an upbeat soundtrack. Tap or click to jump and avoid hazards like spikes, pits, and spinning blades. Timing is crucial, as each level is tightly bound to the rhythm of the music. As the pace increases, so does the need for precise reflexes and memorization.</p>\n<p>Players progress by trial and error, which keeps the gameplay engaging and satisfying. The instant respawn mechanic reduces frustration, making it a go-to among <strong>unblocked games</strong> fans. Whether you're aiming to beat your best score or just enjoy the music, Geometry Dash Lite delivers an exciting challenge.</p>\n\n<h3>More Games You’ll Enjoy</h3>\n<ul>\n  <li><a href=\"https://unbanned.games/games/crazy-cattle-3d\">Crazy Cattle 3D</a> – Hilarious chaos with unpredictable cows</li>\n  <li><a href=\"https://unbanned.games/games/speed-stars\">Speed Stars</a> – Fast-paced sprinting simulator</li>\n  <li><a href=\"https://unbanned.games/games/sprunki-italian-brainrot\">Sprunki: Italian Brainrot</a> – A wacky clicker with surreal humor</li>\n  <li><a href=\"https://unbanned.games/games/italiano-brainrot-neuro-beasts\">Italiano Brainrot: Neuro Beasts</a> – Merge madness with a twisted Italian twist</li>\n</ul>\n\n<h3>FAQ: What Players Often Ask</h3>\n<ul>\n  <li><strong>Q: Is Geometry Dash Lite really unblocked?</strong><br>A: Yes! It’s one of our top <strong>unbanned games</strong> and can be played directly on your browser.</li>\n  <li><strong>Q: Can I save my progress?</strong><br>A: Progress isn't typically saved unless the version supports cookies or local storage—perfect for casual play.</li>\n  <li><strong>Q: Is Geometry Dash Lite suitable for kids?</strong><br>A: Absolutely. Its simple controls and non-violent visuals make it great for players of all ages.</li>\n</ul>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is Geometry Dash Lite really unblocked?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes! It’s one of our top unbanned games and can be played directly on your browser.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I save my progress?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Progress isn't typically saved unless the version supports cookies or local storage—perfect for casual play.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is Geometry Dash Lite suitable for kids?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Absolutely. Its simple controls and non-violent visuals make it great for players of all ages.\"\n      }\n    }\n  ]\n}\n</script>\n\n<h3>Similar Games You Should Try</h3>\n<ul>\n  <li><a href=\"https://unbanned.games/games/crazy-cattle-3d\">Crazy Cattle 3D</a></li>\n  <li><a href=\"https://unbanned.games/games/speed-stars\">Speed Stars</a></li>\n  <li><a href=\"https://unbanned.games/games/sprunki-italian-brainrot\">Sprunki: Italian Brainrot</a></li>\n  <li><a href=\"https://unbanned.games/games/italiano-brainrot-neuro-beasts\">Italiano Brainrot: Neuro Beasts</a></li>\n</ul>\n\n<h3>Video Guide: Watch Before You Jump</h3>\n<p><strong>🎥 Geometry Dash Lite – All Levels Full Walkthrough</strong><br>From the opening level to high-speed stages, this video shows how to master the rhythm and beat the odds. Watch how timing and repetition lead to smooth progression.</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oGiLDRhPkuA\" title=\"Geometry Dash Lite – All Levels Full Walkthrough\" frameborder=\"0\" allowfullscreen></iframe>\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"VideoObject\",\n  \"name\": \"Geometry Dash Lite – All Levels Full Walkthrough\",\n  \"description\": \"This video shows full gameplay of Geometry Dash Lite, helping players understand the timing and rhythm needed to master each level.\",\n  \"thumbnailUrl\": [\n    \"https://i.ytimg.com/vi/oGiLDRhPkuA/hqdefault.jpg\"\n  ],\n  \"uploadDate\": \"2023-03-14T00:00:00+00:00\",\n  \"embedUrl\": \"https://www.youtube.com/embed/oGiLDRhPkuA\",\n  \"contentUrl\": \"https://www.youtube.com/watch?v=oGiLDRhPkuA\"\n}\n</script>\n\n<h3>What Players Are Saying</h3>\n<ul>\n  <li>“The soundtrack is so catchy I keep coming back just for that.” – Reddit user</li>\n  <li>“It’s the perfect quick game between classes. No downloads, no ads—just play.” – YouTube comment</li>\n  <li>“I rage-quit a few times, but I always end up retrying. Addictive and satisfying.” – Reddit gamer</li>\n  <li>“Even after failing 30 times, I still laugh. That’s good game design.” – YouTube viewer</li>\n  <li>“Clean interface and responsive controls. Ideal for school Chromebook!” – Reddit thread</li>\n</ul>",
+    "comments": [
+      {
+        "author": "Logan Wills",
+        "avatar": "https://static.catgame.top/vercel/1747895485616_56.jpg",
+        "time": "1 day ago",
+        "text": "The soundtrack alone keeps me playing. Insanely fun.",
+        "likes": 18,
+        "replies": []
+      },
+      {
+        "author": "Nia Gomez",
+        "avatar": "https://static.catgame.top/vercel/1747895488037_20.jpg",
+        "time": "1 day ago",
+        "text": "Perfect for passing time between classes!",
+        "likes": 14,
+        "replies": []
+      },
+      {
+        "author": "Harvey Xu",
+        "avatar": "https://static.catgame.top/vercel/1747895490777_83.jpg",
+        "time": "1 day ago",
+        "text": "Simple to pick up but sooo hard to master. I love it.",
+        "likes": 11,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Slope Run",
+    "description": "Slope Run is a thrilling space tunnel game where players control a rolling ball through futuristic paths, dodging gaps and walls. Known for its fast-paced, reflex-based gameplay and endless challenge, it’s a top choice among unblocked games in schools and workplaces.",
+    "category": "Arcade",
+    "image": "https://static.catgame.top/vercel/1747980566921_sloperun_300x225.jpg",
+    "rating": 4.2,
+    "ratingCount": 965,
+    "developer": "Slope Devs",
+    "releaseDate": "2025-05-23",
+    "playerCount": 2345,
+    "tags": [
+      "Arcade",
+      "Speed",
+      "Ball",
+      "Tunnel",
+      "Unblocked",
+      "Free"
+    ],
+    "iframeUrl": "https://www.hoodamath.com/mobile/games/slope-run/game.html?nocheckorient=1",
+    "seo_content": "<h2>Slope Run – Experience the Thrill of Fast-Paced Gravity Challenges</h2>\n<p>Looking for <strong>unbanned games</strong> that combine skill, speed, and strategy? <strong>Slope Run</strong> is a gravity-defying tunnel runner that challenges your reflexes and pushes your coordination to the edge. As a top pick among <strong>unblocked games</strong>, it offers an addictive experience where you guide a rolling ball through twisting space tunnels, dodging gaps and walls in real-time. Whether you're killing time at school or sneaking in a break at work, Slope Run delivers an instant adrenaline rush.</p>\n\n<h2>Why Is Slope Run Perfect for School or Work Play?</h2>\n<p>One of the top reasons players choose <strong>Slope Run</strong> on <strong>unbanned games</strong> platforms is its low learning curve and high replay value. It’s browser-based, lightweight, and loads fast—ideal for short play sessions between classes or tasks. With no installations or accounts required, you can dive into this <strong>unblocked game</strong> instantly and return to it anytime without losing progress. Plus, the futuristic graphics and rhythmic gameplay make it a stress-reliever disguised as a speed challenge.</p>\n\n<h2>How to Play Slope Run – Controls and Game Mechanics</h2>\n<p><strong>Slope Run</strong> is all about momentum and fast decision-making. You control a rolling ball traveling through an endless tunnel floating in space. Use the left and right arrow keys to steer. The goal? Avoid falling off the track or hitting walls while navigating increasingly difficult paths. As you progress, the tunnels become narrower, the turns sharper, and the pace faster—perfectly balancing simplicity and complexity. Whether you're a casual player or a speedrun enthusiast, Slope Run offers enough depth to keep you coming back.</p>\n\n<h3>What to Play After Slope Run – More Unblocked Thrills</h3>\n<ul>\n  <li><a href=\"https://unbanned.games/games/crazy-cattle-3d\">Crazy Cattle 3D</a></li>\n  <li><a href=\"https://unbanned.games/games/speed-stars\">Speed Stars</a></li>\n  <li><a href=\"https://unbanned.games/games/sprunki-italian-brainrot\">Sprunki: Italian Brainrot</a></li>\n  <li><a href=\"https://unbanned.games/games/italiano-brainrot-neuro-beasts\">Italiano Brainrot: Neuro Beasts</a></li>\n</ul>\n\n<h3>FAQs About Slope Run</h3>\n<ul>\n  <li><strong>Q:</strong> Can I play Slope Run without downloading?<br><strong>A:</strong> Yes, it’s entirely browser-based—perfect for school networks and restricted environments.</li>\n  <li><strong>Q:</strong> Is Slope Run part of unbanned games?<br><strong>A:</strong> Absolutely. It’s optimized for unblocked access and runs smoothly on most devices.</li>\n  <li><strong>Q:</strong> Does Slope Run save progress?<br><strong>A:</strong> While it doesn’t offer a save system, the level-based structure allows for quick re-entry anytime.</li>\n</ul>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I play Slope Run without downloading?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, it’s entirely browser-based—perfect for school networks and restricted environments.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is Slope Run part of unbanned games?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Absolutely. It’s optimized for unblocked access and runs smoothly on most devices.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Does Slope Run save progress?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"While it doesn’t offer a save system, the level-based structure allows for quick re-entry anytime.\"\n      }\n    }\n  ]\n}\n</script>\n\n<h3>Video Guide – Slope Run Gameplay Walkthrough</h3>\n<p>Watch the gameplay and get tips in this video: <a href=\"https://www.youtube.com/watch?v=GpVj9oxJpsE\" target=\"_blank\">Slope Run - Insane Space Tunnel Gameplay</a></p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GpVj9oxJpsE\" title=\"Slope Run - Insane Space Tunnel Gameplay\" frameborder=\"0\" allowfullscreen></iframe>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"VideoObject\",\n  \"name\": \"Slope Run - Insane Space Tunnel Gameplay\",\n  \"description\": \"Watch this visual walkthrough of Slope Run to see how to survive narrow turns and increase your high score.\",\n  \"thumbnailUrl\": \"https://img.youtube.com/vi/GpVj9oxJpsE/maxresdefault.jpg\",\n  \"uploadDate\": \"2024-11-12T00:00:00+00:00\",\n  \"embedUrl\": \"https://www.youtube.com/embed/GpVj9oxJpsE\",\n  \"contentUrl\": \"https://www.youtube.com/watch?v=GpVj9oxJpsE\"\n}\n</script>",
+    "comments": [
+      {
+        "author": "Jake Morrison",
+        "avatar": "https://static.catgame.top/vercel/1747980569080_36.jpg",
+        "time": "1 day ago",
+        "text": "This game is intense! My hands were shaking after 3 minutes.",
+        "likes": 15,
+        "replies": []
+      },
+      {
+        "author": "Linda Chen",
+        "avatar": "https://static.catgame.top/vercel/1747980570658_43.jpg",
+        "time": "1 day ago",
+        "text": "Love how it ramps up difficulty without being unfair.",
+        "likes": 11,
+        "replies": []
+      },
+      {
+        "author": "Noah Patel",
+        "avatar": "https://static.catgame.top/vercel/1747980572529_66.jpg",
+        "time": "22 hours ago",
+        "text": "I always play this in study hall. Super fun.",
+        "likes": 8,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "1v1.lol",
+    "description": "1v1.lol is a fast-paced multiplayer shooter that blends Fortnite-style building mechanics with tactical 1v1 combat. As a leading unbanned game, it’s ideal for quick, skillful play in restricted environments like schools and workplaces.",
+    "category": "Shooting",
+    "image": "https://static.catgame.top/vercel/1747980575477_cover-1585728351086.png",
+    "rating": 4.5,
+    "ratingCount": 1384,
+    "developer": "JustPlay.LOL",
+    "releaseDate": "2025-05-23",
+    "playerCount": 5120,
+    "tags": [
+      "Shooter",
+      "Multiplayer",
+      "Building",
+      "Battle",
+      "Unblocked",
+      "Free"
+    ],
+    "iframeUrl": "https://1v1.lol/",
+    "seo_content": "<h2>Play 1v1.lol – The Ultimate Build-and-Shoot Experience | Unbanned Games</h2>\n<p>Looking for intense, skill-based <strong>unbanned games</strong> you can play anytime, even at school or work? <strong>1v1.lol</strong> delivers a fast-paced multiplayer experience where strategy meets sharpshooting. As one of the most popular <strong>unblocked games</strong>, it combines Fortnite-style building mechanics with 1v1 arena combat, making it ideal for quick, competitive matches on the go.</p>\n\n<h2>Why Play 1v1.lol at School or Work?</h2>\n<p>In environments where traditional games are blocked, <strong>1v1.lol</strong> offers a thrilling alternative that’s both accessible and engaging. Its browser-based design means there's no need for downloads or installations, making it perfect for quick breaks. Whether you're a student sneaking in a match during study hall or an employee looking to unwind during lunch, this game stands out among <strong>unbanned games</strong> for its simplicity, speed, and low system requirements.</p>\n\n<h2>How to Play 1v1.lol – Quick Controls & Strategy Tips</h2>\n<p>In <strong>1v1.lol</strong>, players engage in real-time 1v1 battles using a combination of building tools and firearms. You'll be equipped with four building options—walls, ramps, floors, and roofs—alongside a standard arsenal including a shotgun, rifle, and sniper.</p>\n<ul>\n  <li><strong>WASD</strong> to move, <strong>Shift</strong> to crouch, <strong>E/Q</strong> for weapons.</li>\n  <li>Use quick builds (Z/X/C/V) for instant defenses or high ground.</li>\n  <li>Practice aiming and editing skills in the “Practice” or “Party” mode before jumping into ranked matches.</li>\n</ul>\n<p>Unlike other <strong>unblocked games</strong>, 1v1.lol’s tactical depth makes every second count. From out-building your opponent to landing that perfect headshot, every match is a test of reflexes and decision-making.</p>\n\n<h3>More Unblocked Games You Might Enjoy</h3>\n<ul>\n  <li><a href=\"https://unbanned.games/games/slope-run\">Slope Run</a></li>\n  <li><a href=\"https://unbanned.games/games/crazy-cattle-3d\">Crazy Cattle 3D</a></li>\n  <li><a href=\"https://unbanned.games/games/speed-stars\">Speed Stars</a></li>\n  <li><a href=\"https://unbanned.games/games/sprunki-italian-brainrot\">Sprunki: Italian Brainrot</a></li>\n  <li><a href=\"https://unbanned.games/games/italiano-brainrot-neuro-beasts\">Italiano Brainrot: Neuro Beasts</a></li>\n</ul>\n\n<h3>Frequently Asked Questions (FAQ)</h3>\n<ul>\n  <li><strong>Q:</strong> Can I play 1v1.lol without downloading?<br><strong>A:</strong> Yes, it’s browser-based and requires no installation.</li>\n  <li><strong>Q:</strong> Is 1v1.lol available among unblocked games at school?<br><strong>A:</strong> Absolutely, it’s widely accessible on <strong>unbanned games</strong> platforms.</li>\n  <li><strong>Q:</strong> What makes 1v1.lol different from other shooters?<br><strong>A:</strong> The unique mix of real-time building and combat mechanics sets it apart.</li>\n</ul>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I play 1v1.lol without downloading?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, it’s browser-based and requires no installation.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is 1v1.lol available among unblocked games at school?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Absolutely, it’s widely accessible on unbanned games platforms.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"What makes 1v1.lol different from other shooters?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"The unique mix of real-time building and combat mechanics sets it apart.\"\n      }\n    }\n  ]\n}\n</script>\n\n<h3>Video Guide – 1v1.lol Gameplay Tips</h3>\n<p>Check out this expert video to learn how to improve your 1v1.lol strategies: <a href=\"https://www.youtube.com/watch?v=FaaIehafRes\" target=\"_blank\">Top 10 Pro Tips for Winning 1v1.lol Matches</a></p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FaaIehafRes\" title=\"Top 10 Pro Tips for Winning 1v1.lol Matches\" frameborder=\"0\" allowfullscreen></iframe>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"VideoObject\",\n  \"name\": \"Top 10 Pro Tips for Winning 1v1.lol Matches\",\n  \"description\": \"Master your skills in 1v1.lol with these top pro-level strategies for outbuilding and outshooting opponents.\",\n  \"thumbnailUrl\": \"https://img.youtube.com/vi/FaaIehafRes/maxresdefault.jpg\",\n  \"uploadDate\": \"2024-11-12T00:00:00+00:00\",\n  \"embedUrl\": \"https://www.youtube.com/embed/FaaIehafRes\",\n  \"contentUrl\": \"https://www.youtube.com/watch?v=FaaIehafRes\"\n}\n</script>",
+    "comments": [
+      {
+        "author": "GameTheory00",
+        "avatar": "https://static.catgame.top/vercel/1747980577557_82.jpg",
+        "time": "2 days ago",
+        "text": "1v1.lol is so much smoother than Fortnite on school laptops!",
+        "likes": 23,
+        "replies": []
+      },
+      {
+        "author": "Lexa_22",
+        "avatar": "https://static.catgame.top/vercel/1747980579145_23.jpg",
+        "time": "1 day ago",
+        "text": "I love the practice mode—perfect for warming up before ranked.",
+        "likes": 17,
+        "replies": []
+      },
+      {
+        "author": "Carlos G.",
+        "avatar": "https://static.catgame.top/vercel/1747980580629_14.jpg",
+        "time": "18 hours ago",
+        "text": "So satisfying to outbuild someone and get the win.",
+        "likes": 19,
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Cookie Clicker",
+    "description": "Cookie Clicker is a wildly addictive idle game where players bake cookies by clicking and upgrading production chains. Perfect for short bursts of fun, it has become a popular unblocked game in schools and workplaces.",
+    "category": "Idle",
+    "image": "https://static.catgame.top/vercel/1747980582547_cookie-clicker-game-360x203.jpg",
+    "rating": 4.6,
+    "ratingCount": 2150,
+    "developer": "Orteil",
+    "releaseDate": "2025-05-23",
+    "playerCount": 4587,
+    "tags": [
+      "Idle",
+      "Clicker",
+      "Incremental",
+      "Unblocked",
+      "Free",
+      "Cookies"
+    ],
+    "iframeUrl": "https://cookie-clicker-online.github.io/file/",
+    "seo_content": "<h2>Play Cookie Clicker Online – The Ultimate Unblocked Idle Game</h2>\n<p>If you're seeking a way to relax during breaks or downtime, <strong>Cookie Clicker unblocked</strong> is your go-to choice. This wildly addictive idle game lets you bake virtual cookies endlessly with just a few clicks. Perfect for school or work environments, it's one of the most popular <strong>unbanned games</strong> today, offering a mix of strategy, upgrades, and satisfaction from watching your cookie empire grow.</p>\n\n<h2>Why Is Cookie Clicker the Perfect Unblocked Game?</h2>\n<p><strong>Cookie Clicker unblocked</strong> excels because it's simple yet incredibly engaging. With minimal system requirements and no time pressure, it’s ideal for short sessions without commitment. This makes it a top pick among <strong>unbanned games</strong> for students and office workers. It combines reward loops, visual progression, and achievement unlocking—all of which boost dopamine and keep players coming back.</p>\n\n<h2>How to Play Cookie Clicker – Basic Controls & Strategies</h2>\n<p>Getting started is easy: click the giant cookie to earn cookies. Spend those cookies on upgrades like cursors, grandmas, factories, and portals that automate production. As you progress, strategic decisions about upgrades, synergy bonuses, and prestige resets become key. The game runs even when idle, making <strong>Cookie Clicker unblocked</strong> perfect for passive play during lectures or meetings. Remember to check for golden cookies and seasonal events—they're essential for efficient growth!</p>\n\n<h3>More Games Like Cookie Clicker</h3>\n<ul>\n  <li><a href=\"https://unbanned.games/games/slope-run\">Slope Run</a></li>\n  <li><a href=\"https://unbanned.games/games/crazy-cattle-3d\">Crazy Cattle 3D</a></li>\n  <li><a href=\"https://unbanned.games/games/speed-stars\">Speed Stars</a></li>\n  <li><a href=\"https://unbanned.games/games/paperio-2\">Paper.io 2</a></li>\n  <li><a href=\"https://unbanned.games/games/geometry-dash-lite\">Geometry Dash Lite</a></li>\n</ul>\n\n<h3>FAQ – Cookie Clicker</h3>\n<ul>\n  <li><strong>Is Cookie Clicker safe to play at school?</strong> Yes, the unblocked version is browser-based and doesn't require downloads, making it safe and accessible on most networks.</li>\n  <li><strong>Does progress save automatically?</strong> Most versions support auto-saving or manual export/import of save data.</li>\n  <li><strong>Can I play offline?</strong> Some versions support offline play, but progress may not sync across devices.</li>\n</ul>\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"FAQPage\",\n  \"mainEntity\": [\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Is Cookie Clicker safe to play at school?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Yes, the unblocked version is browser-based and doesn't require downloads, making it safe and accessible on most networks.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Does progress save automatically?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Most versions support auto-saving or manual export/import of save data.\"\n      }\n    },\n    {\n      \"@type\": \"Question\",\n      \"name\": \"Can I play offline?\",\n      \"acceptedAnswer\": {\n        \"@type\": \"Answer\",\n        \"text\": \"Some versions support offline play, but progress may not sync across devices.\"\n      }\n    }\n  ]\n}\n</script>\n\n<h3>Video Guide – Cookie Clicker Tips & Tricks</h3>\n<p>Watch the gameplay and strategy tips here: <a href=\"https://www.youtube.com/watch?v=ZxkBDtG4XwM\" target=\"_blank\">Cookie Clicker – Ultimate Idle Strategy Guide</a></p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZxkBDtG4XwM\" title=\"Cookie Clicker – Ultimate Idle Strategy Guide\" frameborder=\"0\" allowfullscreen></iframe>\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"VideoObject\",\n  \"name\": \"Cookie Clicker – Ultimate Idle Strategy Guide\",\n  \"description\": \"Learn how to optimize your cookie production and unlock achievements faster in Cookie Clicker.\",\n  \"thumbnailUrl\": \"https://img.youtube.com/vi/ZxkBDtG4XwM/maxresdefault.jpg\",\n  \"uploadDate\": \"2024-11-12T00:00:00+00:00\",\n  \"embedUrl\": \"https://www.youtube.com/embed/EuPIOF0LG70?si=W5SA-HHBRsDEhAeG\",\n  \"contentUrl\": \"https://www.youtube.com/watch?v=ZxkBDtG4XwM\"\n}\n</script>",
+    "comments": [
+      {
+        "author": "Emily W.",
+        "avatar": "https://static.catgame.top/vercel/1747980584632_41.jpg",
+        "time": "12 hours ago",
+        "text": "Can't stop clicking! This game is dangerously addictive.",
+        "likes": 18,
+        "replies": []
+      },
+      {
+        "author": "Carlos J.",
+        "avatar": "https://static.catgame.top/vercel/1747980586776_31.jpg",
+        "time": "6 hours ago",
+        "text": "I reset my progress just to prestige again. So satisfying!",
+        "likes": 14,
+        "replies": []
+      },
+      {
+        "author": "Sophie Tran",
+        "avatar": "https://static.catgame.top/vercel/1747980588274_38.jpg",
+        "time": "2 hours ago",
+        "text": "The golden cookies are life. Love the passive play style too.",
+        "likes": 10,
+        "replies": []
+      }
+    ]
+  }
+]
