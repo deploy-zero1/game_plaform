@@ -1,0 +1,63 @@
+{
+  "siteName": "Unbanned Games Club",
+  "shortDescription": "Play Unbanned Games For Free",
+  "longDescription": "Play free, unbanned games online—no blocks, no downloads. Discover the best unblocked games now and enjoy endless fun anywhere!",
+  "keywords": "unbanned games, unblocked games, free games, online games, puzzle games, casual games, free web games, multiplayer games",
+  "baseUrl": "https://unbanned.games",
+  "logoText": "Unbanned Games Club",
+  "mainTitle": "Play Unbanned Games Club For Free",
+  "subTitle": "Combine meme pets to create larger creatures. Play Unbanned Games online for free and enjoy various game modes!",
+  "footerText": "© 2025 Unbanned Games Club. All rights reserved.",
+  "homeHero": {
+    "mainTitle": "Play Unbanned Games Club For Free",
+    "subTitle": "Combine meme pets to create larger creatures. Play Unbanned Games online for free and enjoy various game modes!",
+    "backgroundImage": "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1920&h=1080",
+    "browseButtonText": "Browse Games",
+    "readButtonText": "Read Blog",
+    "isShowGame": false
+  },
+  "social": {
+    "twitter": "",
+    "facebook": "",
+    "instagram": "",
+    "discord": ""
+  },
+  "contact": {
+    "email": "",
+    "supportEmail": ""
+  },
+  "navigation": {
+    "mainNav": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Games",
+        "href": "/games"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "About",
+        "href": "/about"
+      }
+    ]
+  },
+  "legal": {
+    "privacyPolicy": {
+      "label": "Privacy Policy",
+      "href": "/privacy-policy"
+    },
+    "termsOfService": {
+      "label": "Terms of Service",
+      "href": "/terms-of-service"
+    },
+    "cookiePolicy": {
+      "label": "Cookie Policy",
+      "href": "/cookie-policy"
+    }
+  }
+}
